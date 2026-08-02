@@ -87,17 +87,6 @@ final class Fawzia
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📦 Fawziatahia2</h3>
-      <p>Source available on GitHub.</p>
-      <p>
-        &nbsp;
-      </p>
-      <p>
-        <a href="https://github.com/Fawziatahia/Fawziatahia2">→ View repo</a>
-        <sub>· updated today</sub>
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3>⚙️ profileUi</h3>
       <p>using flutter</p>
       <p>
@@ -108,8 +97,6 @@ final class Fawzia
         <sub>· updated 2 months ago</sub>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🎨 CN Project</h3>
       <p>CN-Project</p>
@@ -121,6 +108,8 @@ final class Fawzia
         <sub>· updated 3 months ago</sub>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🎨 CN Project2</h3>
       <p>A HTML project.</p>
@@ -133,14 +122,24 @@ final class Fawzia
         <sub>· updated 3 months ago</sub>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3>🐘 laravel project</h3>
+      <p>A Blade project.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Blade-F7523F?style=flat-square" alt="Blade" />
+      </p>
+      <p>
+        <a href="https://github.com/Fawziatahia/laravel_project">→ View repo</a>
+        <sub>· updated 8 months ago</sub>
+      </p>
+    </td>
   </tr>
 </table>
 
 <details>
-  <summary><b>🗂️ Everything else</b> — 11 more repositories</summary>
+  <summary><b>🗂️ Everything else</b> — 10 more repositories</summary>
   <br />
   <table>
-      <tr><td>🐘 <a href="https://github.com/Fawziatahia/laravel_project"><b>laravel project</b></a></td><td>A Blade project.</td><td align="right"><sub>Blade</sub></td></tr>
       <tr><td>✈️ <a href="https://github.com/Fawziatahia/TravelAgent.ai"><b>TravelAgent.ai</b></a></td><td>Turns a loose travel idea into a usable plan. Built in Python, driven by an LLM.</td><td align="right"><sub>Python</sub></td></tr>
       <tr><td>🌐 <a href="https://github.com/Fawziatahia/WebDev-Project-Php"><b>Social Media App</b></a></td><td>Profiles, posts, and interactions built on a hand-rolled PHP backend.</td><td align="right"><sub>PHP</sub></td></tr>
       <tr><td>📦 <a href="https://github.com/Fawziatahia/metro_wb_project"><b>metro wb project</b></a></td><td>Source available on GitHub.</td><td align="right"><sub>—</sub></td></tr>
@@ -154,7 +153,7 @@ final class Fawzia
   </table>
 </details>
 
-<sub>📂 15 public repositories · auto-synced from the GitHub API on 2026-08-02</sub>
+<sub>📂 14 public repositories · auto-synced from the GitHub API on 2026-08-02</sub>
 <!-- PROJECTS:END -->
 
 <img src="./assets/divider.svg" alt="" width="100%" />
