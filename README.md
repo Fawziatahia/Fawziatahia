@@ -95,7 +95,7 @@ final class Fawzia
       </p>
       <p>
         <a href="https://github.com/Fawziatahia/DocSlot">→ View repo</a>
-        <sub>· updated 3 days ago</sub>
+        <sub>· updated 4 days ago</sub>
       </p>
     </td>
     <td width="50%" valign="top">
