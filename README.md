@@ -95,7 +95,7 @@ final class Fawzia
       </p>
       <p>
         <a href="https://github.com/Fawziatahia/DocSlot">→ View repo</a>
-        <sub>· updated yesterday</sub>
+        <sub>· updated 2 days ago</sub>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -119,7 +119,7 @@ final class Fawzia
       </p>
       <p>
         <a href="https://github.com/Fawziatahia/CN-Project">→ View repo</a>
-        <sub>· updated 3 months ago</sub>
+        <sub>· updated 4 months ago</sub>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -155,7 +155,7 @@ final class Fawzia
   </table>
 </details>
 
-<sub>📂 15 public repositories · auto-synced from the GitHub API on 2026-08-13</sub>
+<sub>📂 15 public repositories · auto-synced from the GitHub API on 2026-08-14</sub>
 <!-- PROJECTS:END -->
 
 <img src="./assets/divider.svg" alt="" width="100%" />
