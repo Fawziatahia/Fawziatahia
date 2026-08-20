@@ -103,6 +103,7 @@ final class Fawzia
       <p>A Dart project.</p>
       <p>
         <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square" alt="Dart" />
+        <img src="https://img.shields.io/badge/%E2%98%85_1-1A1B27?style=flat-square" alt="1 star" />
       </p>
       <p>
         <a href="https://github.com/Fawziatahia/RideGO">→ View repo</a>
