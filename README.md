@@ -99,6 +99,20 @@ final class Fawzia
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3>📱 RideGO</h3>
+      <p>A multi-service super app built with Flutter: ride-hailing, food delivery, parcel courier and a digital wallet behind one account, one balance and one loyalty programme.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square" alt="Dart" />
+        <img src="https://img.shields.io/badge/%E2%98%85_1-1A1B27?style=flat-square" alt="1 star" />
+      </p>
+      <p>
+        <a href="https://github.com/Fawziatahia/RideGO">→ View repo</a>
+        <sub>· updated today</sub>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>📘 yaos bd</h3>
       <p>A TypeScript project.</p>
       <p>
@@ -109,8 +123,6 @@ final class Fawzia
         <sub>· updated yesterday</sub>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>⚙️ profileUi</h3>
       <p>using flutter</p>
@@ -122,24 +134,14 @@ final class Fawzia
         <sub>· updated 2 months ago</sub>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🎨 CN Project</h3>
-      <p>CN-Project</p>
-      <p>
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square" alt="CSS" />
-      </p>
-      <p>
-        <a href="https://github.com/Fawziatahia/CN-Project">→ View repo</a>
-        <sub>· updated 4 months ago</sub>
-      </p>
-    </td>
   </tr>
 </table>
 
 <details>
-  <summary><b>🗂️ Everything else</b> — 12 more repositories</summary>
+  <summary><b>🗂️ Everything else</b> — 13 more repositories</summary>
   <br />
   <table>
+      <tr><td>🎨 <a href="https://github.com/Fawziatahia/CN-Project"><b>CN Project</b></a></td><td>CN-Project</td><td align="right"><sub>CSS</sub></td></tr>
       <tr><td>🎨 <a href="https://github.com/Fawziatahia/CN-Project2"><b>CN Project2</b></a></td><td>A HTML project.</td><td align="right"><sub>HTML</sub></td></tr>
       <tr><td>🐘 <a href="https://github.com/Fawziatahia/laravel_project"><b>laravel project</b></a></td><td>A Blade project.</td><td align="right"><sub>Blade</sub></td></tr>
       <tr><td>✈️ <a href="https://github.com/Fawziatahia/TravelAgent.ai"><b>TravelAgent.ai</b></a></td><td>Turns a loose travel idea into a usable plan. Built in Python, driven by an LLM.</td><td align="right"><sub>Python</sub></td></tr>
@@ -155,7 +157,7 @@ final class Fawzia
   </table>
 </details>
 
-<sub>📂 16 public repositories · auto-synced from the GitHub API on 2026-08-25</sub>
+<sub>📂 17 public repositories · auto-synced from the GitHub API on 2026-08-25</sub>
 <!-- PROJECTS:END -->
 
 <img src="./assets/divider.svg" alt="" width="100%" />
