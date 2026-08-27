@@ -95,7 +95,7 @@ final class Fawzia
       </p>
       <p>
         <a href="https://github.com/Fawziatahia/DocSlot">→ View repo</a>
-        <sub>· updated 5 days ago</sub>
+        <sub>· updated 6 days ago</sub>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -106,7 +106,7 @@ final class Fawzia
       </p>
       <p>
         <a href="https://github.com/Fawziatahia/yaos-bd">→ View repo</a>
-        <sub>· updated 3 days ago</sub>
+        <sub>· updated 4 days ago</sub>
       </p>
     </td>
   </tr>
@@ -119,7 +119,7 @@ final class Fawzia
       </p>
       <p>
         <a href="https://github.com/Fawziatahia/profileUi">→ View repo</a>
-        <sub>· updated 2 months ago</sub>
+        <sub>· updated 3 months ago</sub>
       </p>
     </td>
     <td width="50%" valign="top">
