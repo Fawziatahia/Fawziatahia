@@ -95,7 +95,7 @@ final class Fawzia
       </p>
       <p>
         <a href="https://github.com/Fawziatahia/DocSlot">→ View repo</a>
-        <sub>· updated 7 days ago</sub>
+        <sub>· updated 8 days ago</sub>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -106,7 +106,7 @@ final class Fawzia
       </p>
       <p>
         <a href="https://github.com/Fawziatahia/yaos-bd">→ View repo</a>
-        <sub>· updated 5 days ago</sub>
+        <sub>· updated 6 days ago</sub>
       </p>
     </td>
   </tr>
