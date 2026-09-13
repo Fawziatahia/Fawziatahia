@@ -130,7 +130,7 @@ final class Fawzia
       </p>
       <p>
         <a href="https://github.com/Fawziatahia/CN-Project">→ View repo</a>
-        <sub>· updated 4 months ago</sub>
+        <sub>· updated 5 months ago</sub>
       </p>
     </td>
   </tr>
@@ -155,7 +155,7 @@ final class Fawzia
   </table>
 </details>
 
-<sub>📂 16 public repositories · auto-synced from the GitHub API on 2026-09-12</sub>
+<sub>📂 16 public repositories · auto-synced from the GitHub API on 2026-09-13</sub>
 <!-- PROJECTS:END -->
 
 <img src="./assets/divider.svg" alt="" width="100%" />
