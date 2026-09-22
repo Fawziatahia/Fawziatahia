@@ -106,7 +106,7 @@ final class Fawzia
       </p>
       <p>
         <a href="https://github.com/Fawziatahia/yaos-bd">→ View repo</a>
-        <sub>· updated 29 days ago</sub>
+        <sub>· updated 1 month ago</sub>
       </p>
     </td>
   </tr>
