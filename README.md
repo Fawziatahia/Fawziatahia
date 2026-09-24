@@ -99,13 +99,14 @@ final class Fawzia
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📘 yaos bd</h3>
-      <p>A TypeScript project.</p>
+      <h3>📱 RideGO</h3>
+      <p>A multi-service super app built with Flutter: ride-hailing, food delivery, parcel courier and a digital wallet behind one account, one balance and one loyalty programme.</p>
       <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square" alt="Dart" />
+        <img src="https://img.shields.io/badge/%E2%98%85_1-1A1B27?style=flat-square" alt="1 star" />
       </p>
       <p>
-        <a href="https://github.com/Fawziatahia/yaos-bd">→ View repo</a>
+        <a href="https://github.com/Fawziatahia/RideGO">→ View repo</a>
         <sub>· updated 1 month ago</sub>
       </p>
     </td>
