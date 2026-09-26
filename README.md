@@ -120,7 +120,7 @@ final class Fawzia
       </p>
       <p>
         <a href="https://github.com/Fawziatahia/profileUi">→ View repo</a>
-        <sub>· updated 3 months ago</sub>
+        <sub>· updated 4 months ago</sub>
       </p>
     </td>
     <td width="50%" valign="top">
