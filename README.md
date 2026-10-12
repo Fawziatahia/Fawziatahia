@@ -131,7 +131,7 @@ final class Fawzia
       </p>
       <p>
         <a href="https://github.com/Fawziatahia/CN-Project">→ View repo</a>
-        <sub>· updated 5 months ago</sub>
+        <sub>· updated 6 months ago</sub>
       </p>
     </td>
   </tr>
