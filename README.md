@@ -107,7 +107,7 @@ final class Fawzia
       </p>
       <p>
         <a href="https://github.com/Fawziatahia/RideGO">→ View repo</a>
-        <sub>· updated 2 months ago</sub>
+        <sub>· updated 3 months ago</sub>
       </p>
     </td>
   </tr>
