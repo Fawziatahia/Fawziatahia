@@ -120,7 +120,7 @@ final class Fawzia
       </p>
       <p>
         <a href="https://github.com/Fawziatahia/profileUi">→ View repo</a>
-        <sub>· updated 5 months ago</sub>
+        <sub>· updated 6 months ago</sub>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -156,7 +156,7 @@ final class Fawzia
   </table>
 </details>
 
-<sub>📂 16 public repositories · auto-synced from the GitHub API on 2026-11-25</sub>
+<sub>📂 16 public repositories · auto-synced from the GitHub API on 2026-11-26</sub>
 <!-- PROJECTS:END -->
 
 <img src="./assets/divider.svg" alt="" width="100%" />
